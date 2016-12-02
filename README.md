@@ -20,6 +20,6 @@ npm install
 Run the server like so:
 
 ```bash
-node server.js --base-url=http://my-cool-webserver.net --port=5309
+node server.js --base-url=http://my-cool-webserver.localtld:4234 --port=5309
 # then visit http://localhost:5309
 ```
